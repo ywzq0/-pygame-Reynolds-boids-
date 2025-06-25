@@ -16,7 +16,7 @@ def draw_text(screen, font, title_font):
     
     # 绘制说明文字
     instructions = [
-        "群体行为规则: 碰撞规避(Coliision Avoidance),速度匹配(Velocity Matching),群体中心定位(Flock Centering)",
+        "群体行为规则: 碰撞规避(Collision Avoidance),速度匹配(Velocity Matching),群体中心定位(Flock Centering)",
         "操作指南: 空格键暂停/继续, R键重置, ESC键退出",
         "鼠标左键: 添加障碍物, 鼠标右键: 添加捕食者"
     ]
